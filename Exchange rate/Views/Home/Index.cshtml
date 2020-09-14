@@ -1,0 +1,16 @@
+﻿@model CurrencyConverter 
+@{
+    decimal priceRub = 1000;
+}
+<div>
+    Если Цена товара в рублях: @priceRub рубблей, то
+    <div>
+        @($"При курсе доллара: {Model.USD}, цена в долларах будет: {Decimal.Round(Model.ConvertToUSD(priceRub), 2)}")
+    </div>
+    <div>
+        @($"При курсе евро: {Model.EUR}, цена в евро будет: {Decimal.Round(Model.ConvertToEUR(priceRub), 2)}")
+    </div>
+    <div>
+        @($"При курсе юани: {Model.CNY}, цена в юанях будет: {Decimal.Round(Model.ConvertToCNY(priceRub), 2)}")
+    </div>
+</div>

@@ -1,0 +1,57 @@
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\Exchange rate.exe
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\Exchange rate.deps.json
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\Exchange rate.runtimeconfig.json
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\Exchange rate.runtimeconfig.dev.json
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\Exchange rate.dll
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\Exchange rate.pdb
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\Exchange rate.Views.dll
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\Exchange rate.Views.pdb
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\obj\Debug\netcoreapp3.1\Exchange rate.csprojAssemblyReference.cache
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\obj\Debug\netcoreapp3.1\Exchange rate.RazorAssemblyInfo.cache
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\obj\Debug\netcoreapp3.1\Exchange rate.RazorAssemblyInfo.cs
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\obj\Debug\netcoreapp3.1\Exchange rate.AssemblyInfoInputs.cache
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\obj\Debug\netcoreapp3.1\Exchange rate.AssemblyInfo.cs
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\obj\Debug\netcoreapp3.1\Exchange rate.TagHelpers.input.cache
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\obj\Debug\netcoreapp3.1\Exchange rate.TagHelpers.output.cache
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\obj\Debug\netcoreapp3.1\Exchange rate.RazorCoreGenerate.cache
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\obj\Debug\netcoreapp3.1\Exchange rate.RazorTargetAssemblyInfo.cache
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\obj\Debug\netcoreapp3.1\Exchange rate.RazorTargetAssemblyInfo.cs
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\obj\Debug\netcoreapp3.1\Exchange rate.Views.pdb
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\obj\Debug\netcoreapp3.1\staticwebassets\Exchange rate.StaticWebAssets.Manifest.cache
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\obj\Debug\netcoreapp3.1\staticwebassets\Exchange rate.StaticWebAssets.xml
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\obj\Debug\netcoreapp3.1\Exchange rate.dll
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\obj\Debug\netcoreapp3.1\Exchange rate.pdb
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\obj\Debug\netcoreapp3.1\Exchange rate.genruntimeconfig.cache
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\obj\Debug\netcoreapp3.1\Exchange rate.csproj.CopyComplete
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\obj\Debug\netcoreapp3.1\Exchange rate.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\Exchange rate\Exchange rate\obj\Debug\netcoreapp3.1\Exchange rate.MvcApplicationPartsAssemblyInfo.cache
